@@ -6,11 +6,9 @@
 ##python scanner.py -h
 ###a) By env and git's name
 ###::~proc -> online;test -> test; yf -> yufa
-#####～python scanner.py proc all_git
-#####～python scanner.py proc beauty@gitlab.test.com/test.git
-#####～python scanner.py yf beauty
-#####～python scanner.py yf bbj
-#####～python scanner.py test ybb
+####～python scanner.py proc all_git
+####～python scanner.py yf bbj
+####～python scanner.py test ybb
 
 ###b) By api_change_time on year
 #####～python scanner.py test time:2019
