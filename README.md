@@ -1,7 +1,6 @@
 # CI_xray_scan
-#CI调度流程之扫描器模块
+#CI调度流程之扫描器模块（目前只适配于甲方的CI自动化构建流程，暂时基于APIDOC数据）
 # Author:Laimooc@拂晓 
-## https://www.laimooc.cn/
 
 ## python scanner.py -h
 ### a) By env and git's name
@@ -31,3 +30,5 @@
 
 ### h) By none apidoc and these data need to unique "apiid" eg md5
 ##### ～python scanner.py test notapiid
+
+## 更多内容移步 https://www.laimooc.cn/
