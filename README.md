@@ -1,6 +1,7 @@
 # CI_xray_scan
 #CI调度流程之扫描器模块
-# Author:Laimooc@拂晓
+# Author:Laimooc@拂晓 
+## https://www.laimooc.cn/
 
 ## python scanner.py -h
 ### a) By env and git's name
