@@ -5,8 +5,8 @@
 
 #python scanner.py -h
 ......
-####a) By env and git's name
-######::~proc -> online;test -> test; yf -> yufa
+#a) By env and git's name
+##::~proc -> online;test -> test; yf -> yufa
 ######～python scanner.py proc all_git
 ######～python scanner.py proc beauty@gitlab.meiyou.com/test.git
 ######～python scanner.py yf beauty
