@@ -1,5 +1,5 @@
 # CI_xray_scan
-#CI调度流程之扫描器模块（目前只适配于甲方的CI自动化构建流程，暂时基于APIDOC数据）
+#CI调度流程之扫描器模块（目前只适配于甲方的CI自动化构建流程，暂时基于APIDOC数据,具体移步Help）
 # Author:Laimooc@拂晓 
 
 ## python scanner.py -h
